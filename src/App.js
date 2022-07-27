@@ -12,7 +12,7 @@ const App = () => {
 	return (
 		<AppProvider>
 			<div className='container'>
-				<h1 className='mt-3'>My Budget App</h1>
+				<h1 className='mt-3'>My Budget Planner</h1>
 				<div className='row mt-3'>
 					<div className='col-sm'>
 						<Budget />
@@ -22,7 +22,7 @@ const App = () => {
 					</div>
 					<div className='col-sm'>
 						<ExpenseTotal />
-					</div> 
+					</div>
 				</div>
 				<h3 className='mt-3'>Expenses</h3>
 				<div className='row '>
