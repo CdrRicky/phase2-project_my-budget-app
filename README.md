@@ -2,7 +2,7 @@
 
 # Phase-2-Project
 # {My-Budget-App}
-#### {The App is a tool that can be used to manage one expenses for better financial planning}, {Thur, July 26, 2022}
+#### {The App is a tool that can be used to manage user expenses for better financial planning}, {Thur, July 26, 2022}
 #### By **{Eric Kiogora Muthuri}**
 ## Description
 
@@ -21,6 +21,7 @@ The app has a search button where one can search through their expense list.
 ## Setup/Installation Requirements
 
 ## Live link
+
 ## Known Bugs
 {There maybe some lags here and there but don't worry, let me know, let's make it better together}
 ## Technologies Used
