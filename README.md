@@ -29,4 +29,4 @@ The app has a search button where one can search through their expense list.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
-Copyright (c) {2022} 
+Copyright (Eric Muthuri) {2022} 
