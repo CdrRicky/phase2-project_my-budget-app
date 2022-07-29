@@ -23,10 +23,11 @@ The app has a search button where one can search through their expense list.
 ## Known Bugs
 {There maybe some lags here and there but don't worry, let me know, let's make it better together}
 ## Technologies Used
-{Some of the technologies used in the project are HTML, CSS, JAVASCRIPT & REACT JS}
+{Some of the technologies used in the project are HTML, CSS, JAVASCRIPT, BOOTSTRAP & REACT JS}
 ## Support and contact details
 {If you have any questions please feel free to reach out. You're encouraged to make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
+You may use the code and edit it as you wish.
 Copyright () {2022} 
