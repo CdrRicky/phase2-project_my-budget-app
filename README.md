@@ -19,7 +19,8 @@ The app also displays an alert when, The user exceeds the set budget.
 The app has a search button where one can search through their expense list.
 
 ## Setup/Installation Requirements
-
+npm install
+npm start
 ## Live link
 
 ## Known Bugs
