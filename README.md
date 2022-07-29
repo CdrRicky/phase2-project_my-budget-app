@@ -28,6 +28,5 @@ The app has a search button where one can search through their expense list.
 {If you have any questions please feel free to reach out. You're encouraged to make a contribution to the code.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-This is under the [MIT](LICENSE) license
-You may use the code and edit it as you wish.
+This is under the [MIT](LICENSE) license. You may use the code and edit it as you wish.
 Copyright () {2022} 
